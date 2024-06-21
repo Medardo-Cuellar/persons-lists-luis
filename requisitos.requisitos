@@ -1,11 +1,8 @@
-# Lista de personas con React
-
-Se necesita hacer varios inputs
+Se necesita hacer varios inputs 
 firstName
 lastName
 email
-boton de eliminar
-lista que muestre
+boton cno lista que muestre
 firstName + lastName + email
 
 cada uno de los elementos es un objeto
